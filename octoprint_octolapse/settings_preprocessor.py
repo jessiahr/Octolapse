@@ -25,7 +25,7 @@ from __future__ import unicode_literals
 import os
 import time
 import datetime
-from file_read_backwards import FileReadBackwards
+from file_read_backwards.file_read_backwards import FileReadBackwardsIterator
 import re
 import six
 import string
